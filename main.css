@@ -1,3 +1,7 @@
-body {
-    background-color: aqua;
+#rocks {
+    background-color: gray;
+}
+
+#pies {
+    background-color: blue;
 }
